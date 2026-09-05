@@ -1,2 +1,2 @@
 # SSAT
-⋆ ˚｡⋆୨୧˚PracticeProject01: SAAT⊹ ࣪ ˖
+⋆ ˚｡⋆୨୧˚PracticeProject01: SSAT⊹ ࣪ ˖
