@@ -17,7 +17,7 @@ result2 = (result/total_hours)
 
 #Output: Results and goodbye message. .✦ ݁˖
 
-print("Dear" +users_name+ ", SSAT has measured the estimated travel's time to", destiny,"~")
-print(f"Considering the distance of",distance,"as well as the speed of",speed,"...")
-print(f"the approximate hours of your travel is {result:.2f}, which equals to {result2:.2f} days!!! ദ്ദി/ᐠ - ⩊ -マ.ᐟ")
+print("Dear " +users_name+ ", SSAT has measured the estimated travel's time to", destiny,"~")
+print(f"Considering the distance of",distance,"km/h, as well as the speed of",speed,"... the approximate")
+print(f"hours of your travel is {result:.2f}, which equals to {result2:.2f} days!!! ദ്ദി/ᐠ - ⩊ -マ.ᐟ")
 print("Have a wonderful journey throught the galaxy and enjoy the view! ฅ₍^˵◝ ⩊ ◜˵マⳊ")
